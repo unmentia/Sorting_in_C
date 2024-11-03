@@ -1,1 +1,1 @@
-# Sorting_in_C
+# Sorting_C
